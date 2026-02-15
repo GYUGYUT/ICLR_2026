@@ -1,7 +1,7 @@
 # UniPrompt-CL: Unified Prompt Pool for Continual Learning
 
 Official PyTorch implementation of **UniPrompt-CL**, a framework with a **Unified Prompt Pool** designed for continual learning (CL) in the medical domain.  
-This work has been submitted to **ICLR 2026**.
+This work has been submitted to **ECCV 2026**.
 
 ---
 
@@ -148,7 +148,7 @@ Thank you.
 | CVPR 2023 | Coda-Prompt [30] | 0.682 / 0.646 | 0.721 / 0.697 | 0.663 / 0.557 |
 | CVPR 2022 | L2P [35] | 0.353 / 0.174 | 0.421 / 0.194 | 0.603 / 0.252 |
 | ECCV 2022 | Dual-Prompt [34] | 0.363 / 0.185 | 0.435 / 0.222 | 0.604 / 0.259 |
-| **ICLR 2026** | **UniPrompt-CL (Ours)** | **0.845 / 0.758** | **0.789 / 0.742** | **0.690 / 0.650** |
+| **ECCV 2026** | **UniPrompt-CL (Ours)** | **0.845 / 0.758** | **0.789 / 0.742** | **0.690 / 0.650** |
 
 ---
 
